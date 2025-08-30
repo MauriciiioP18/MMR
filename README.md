@@ -1,2 +1,3 @@
-# pag-mmr.
-Contador
+# MMRJMGG.
+Contador de dias para verla.
+
